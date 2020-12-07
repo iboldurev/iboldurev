@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter and Swift UI
 - 👯 I’m looking to collaborate on open source Flutter / Swift project
 - 💬 Ask me about Laravel / Flutter / Swift / Obj-c / etc.
-- 📫 How to reach me: [Github](https://github.com/iboldurev) | [Twitter](https://twitter.com/iboldurev), [Facebook](https://facebook.com/iboldurev), [Linkedin](https://www.linkedin.com/in/iboldurev/)
+- 📫 How to reach me: [Github](https://github.com/iboldurev), [Twitter](https://twitter.com/iboldurev), [Facebook](https://facebook.com/iboldurev), [Linkedin](https://www.linkedin.com/in/iboldurev/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: It’s not a bug – it’s an undocumented feature.
