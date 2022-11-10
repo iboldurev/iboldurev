@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Github](https://github.com/iboldurev), [Twitter](https://twitter.com/iboldurev), [Facebook](https://facebook.com/iboldurev), [Linkedin](https://www.linkedin.com/in/iboldurev/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: It’s not a bug – it’s an undocumented feature.
-
-### Visitors Count
-
-<img align="left" src = "https://profile-counter.glitch.me/iboldurev/count.svg" alt ="Loading">
